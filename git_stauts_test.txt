@@ -1,1 +1,1 @@
-git status test
+git status test git diff vvv
