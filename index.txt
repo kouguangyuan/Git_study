@@ -3,16 +3,3 @@ hotindex
 hh
 bb
 cc
-
-branch teest
-
-branch master
-
-branch test
-
-branch master
-
-sssssssssssss
-gggggggggggggggg
-
-git fetch
